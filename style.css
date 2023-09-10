@@ -1,0 +1,65 @@
+body{
+  margin-top: 10px;
+  text-align:center;
+}
+
+h1 {
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 10rem;
+  color: burlywood;
+}
+h2{
+  font-size: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-bottom: 2rem;
+  background-color: antiquewhite;
+  color: black;
+}
+
+input[type=number] {
+  cursor: pointer;
+}
+
+#input-celsius{
+  background-color: peru;
+  font-size: 2rem;
+}
+
+#input-fahrenheit{
+  background-color: violet;
+  font-size: 2rem;
+}
+
+#input-kelvin{
+  background-color: mediumturquoise;
+  font-size: 2rem;
+}
+
+.form-padding {
+  padding: 2rem 1rem;
+}
+
+::-webkit-input-placeholder {
+  color: #FFFFFF !important;
+}
+::-moz-placeholder {
+  color: #FFFFFF !important;
+}
+:-ms-input-placeholder {
+  color: #FFFFFF !important;
+}
+:-moz-placeholder {
+  color: #FFFFFF !important;
+}
+footer{
+  padding-top: 5rem;
+  font-size: 0.7rem;
+  line-height: 0.2rem;
+  text-align:center;
+}
+
+.logo{
+  max-width: 25px;
+  height: auto;
+}
